@@ -22,3 +22,13 @@ https://github.com/cloudframeworks-springcloud/user-guide-springcloud
 
 
 https://github.com/kbastani/spring-cloud-microservice-example
+
+
+https://github.com/jesperdj/spring-cloud-demo
+
+
+https://github.com/roncoo/spring-boot-demo
+
+
+vaadin for Spring:
+https://vaadin.github.io/spring-tutorial/
