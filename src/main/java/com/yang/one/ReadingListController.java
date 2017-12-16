@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 @Controller
-@RequestMapping("/readingList")
+@RequestMapping("/one")
 public class ReadingListController {
 
   private static final String reader = "craig";
