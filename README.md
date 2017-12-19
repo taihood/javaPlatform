@@ -33,6 +33,12 @@ https://github.com/roncoo/spring-boot-demo
 vaadin for Spring:
 https://vaadin.github.io/spring-tutorial/
 
+http://www.discoversdk.com/blog/vaadin-with-spring-boot
+
+
+thymeleaf:
+http://nanpengjie.leanote.com/post/Thymeleaf%E6%95%99%E7%A8%8B-%EF%BC%88%E4%BA%94%EF%BC%89-Thymeleaf%E6%A0%87%E5%87%86%E8%A1%A8%E8%BE%BE%E5%BC%8F%E8%AF%AD%E6%B3%95%EF%BC%88%E4%B8%8B%EF%BC%89
+
 
 
 Machine Learning:
